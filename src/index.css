@@ -43,3 +43,7 @@ nav {
 label:not(:last-child) {
   margin-right: 30px;
 }
+
+/* .nav-wrapper {
+  text-align: center;
+} */
