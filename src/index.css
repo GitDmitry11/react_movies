@@ -1,5 +1,5 @@
 body {
-  background: url(./img/733.jpg) no-repeat;
+  background: url(./img/5343.jpg) no-repeat;
   background-size: cover;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -27,6 +27,7 @@ nav {
 
 .search-btn {
   position: absolute;
+  color: #fff;
   top: 0;
   right: 0.5rem;
 }
@@ -37,4 +38,8 @@ label:not(:last-child) {
 
 .footer-copyright {
   text-align: center;
+}
+
+.with-gap {
+  color: #fff
 }
